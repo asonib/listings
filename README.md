@@ -13,4 +13,10 @@ Django Application
   <h4>Run Server - python manage.py runserver (venv)</h4> 
   <h4> static command </h4>
   - python manage.py collectstatic
+  <h4>Settings - static definition</h4>
+  STATIC_URL = '/static/'
+  STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+  STATICFILES_DIR = [
+      os.path.join(BASE_DIR, 'sitelist/static')
+  ]
 </pre>
