@@ -10,7 +10,8 @@ Django Application
   5. Then run pip install -r requirements.txt
   6. Run the django project run this./manage.py runserver
   <h4>install pylint</h4>-pip install -U pylint (in venv)
-  <h4>Run Server - python manage.py runserver (venv)</h4> 
+  <h4>Run Server</h4>
+  -python manage.py runserver (venv)
   <h4> static command </h4>
   - python manage.py collectstatic
   <h4>Settings - static definition</h4>
