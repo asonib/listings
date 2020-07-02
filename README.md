@@ -1,5 +1,5 @@
 # listings
-Django Application
+Django Application For Realestate listings
 
 <pre>
   <h3>Creating basic skeleton - Windows</h3>
